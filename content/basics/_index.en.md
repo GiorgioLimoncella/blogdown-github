@@ -8,4 +8,11 @@ weight: 1
 
 # Basics
 
-Discover what this Hugo theme is all about and the core-concepts behind it.
+here the file is modified: 
+
+- bullet 1 
+
+- bullet 2
+
+**Bold**
+
